@@ -1,0 +1,28 @@
+Customer ID: 1
+Customer Name: RAJ
+Purchased Items:
+ - Milk x2 = ₹80.0
+ - Rice x5 = ₹300.0
+ - Salt x2 = ₹40.0
+Total Amount: ₹420.0
+Remaining Budget: ₹1580.0
+----------------------------------
+Customer ID: 1
+Customer Name: raj
+Purchased Items:
+ - Banana x2 = ₹20.0
+Total Amount: ₹20.0
+Remaining Budget: ₹1980.0
+----------------------------------
+Customer ID: 1
+Customer Name: raj
+Items Purchased:
+ - Salt -> 2 x ₹20.0 = ₹40.0
+ - Sugar -> 2 x ₹45.0 = ₹90.0
+ - Apple -> 1 x ₹30.0 = ₹30.0
+ - Cheese -> 2 x ₹120.0 = ₹240.0
+ - Rice -> 5 x ₹60.0 = ₹300.0
+Total Items: 12
+Total Amount: ₹700.0
+Remaining Budget: ₹1300.0
+----------------------------------

@@ -1,0 +1,9 @@
+Rice,60,120,Grains
+Wheat,50,115,Grains
+Milk,40,125,Dairy
+Cheese,120,110,Dairy
+Apple,30,130,Fruits
+Banana,10,150,Fruits
+Oil,150,112,Essentials
+Sugar,45,118,Essentials
+Salt,20,125,Essentials
